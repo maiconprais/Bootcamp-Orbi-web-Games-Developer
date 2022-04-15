@@ -1,3 +1,4 @@
+//t
 var jogador,vencedor = null;
 var jogadorSelecionado = document.getElementById('jogador-selecionado');
 var vencedorSelecionado = document.getElementById('vencedor-selecionado');
